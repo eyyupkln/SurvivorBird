@@ -5,7 +5,7 @@ Oyunun içerisinde telif hakkı bulumayan müzik bulunmaktadır.
 
 Algirtma mantığı olarak gayet başarılı ve kompleks bir proje olan bu oyun tasarım konusunda sadelikten yana olmuştur.
 
-#[EN] 
+# [EN] 
 This is a simple and enjoyable Java application using the LibGDX Library.
 
 The game features copyright-free music.
