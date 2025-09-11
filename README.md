@@ -5,11 +5,15 @@ Oyunun içerisinde telif hakkı bulumayan müzik bulunmaktadır.
 
 Algirtma mantığı olarak gayet başarılı ve kompleks bir proje olan bu oyun tasarım konusunda sadelikten yana olmuştur.
 
+Cihazınıza kurulumunu yaparak keyifle oynayabilirsiniz.
+
 # [EN] 
 This is a simple and enjoyable Java application using the LibGDX Library.
 
 The game features copyright-free music.
 
 This game, a highly successful and compleks project in terms of its algorithmic logic, prioritizes simplicity in its design.
+
+You can enjoy playing it by installing it on your device.
 
 
